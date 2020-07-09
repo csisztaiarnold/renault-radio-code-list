@@ -1,4 +1,4 @@
-Liste de tous les codes de sécurité à utiliser pour activer votre autoradio Renault.
+List of radio activator codes for Renault.
 -----
 
 |Precode|code|
